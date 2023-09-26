@@ -1,0 +1,12 @@
+{
+    "feedly":{
+        "service_host": "cloud.feedly.com",
+        "token": "your_feedly_token"
+    },
+    "chatGPT":{
+        "token": "your_ChatGPT_token"
+    },
+    "notion":{
+        "token": "your_Notion_token"
+    }
+}
